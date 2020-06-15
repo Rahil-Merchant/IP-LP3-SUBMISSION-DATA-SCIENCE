@@ -16,3 +16,8 @@
 ##### - https://www.kaggle.com/rahilmerchant/fake-news-dataset/
 
 ##### - https://www.kaggle.com/rahilmerchant/cc-fake-news-classifier-v3/
+
+#### Pull the kernel using the following command:
+```
+kaggle kernels pull rahilmerchant/cc-fake-news-classifier-v3
+```
